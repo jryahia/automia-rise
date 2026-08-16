@@ -82,3 +82,4 @@ nav{display:flex;gap:30px;align-items:center;font-family:var(--font);font-size:1
 
 /* (rise uses split-text everywhere; .wm already styled) */
 .rise-hero h1{font-family:var(--font);font-size:clamp(40px,9vw,116px);font-weight:700;line-height:1.02;letter-spacing:-.025em}
+.wm{margin-right:-.25em}
